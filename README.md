@@ -1,1 +1,1 @@
-# titanic-survival-predictor
+# Predicting Survivors from the Titanic Crash
